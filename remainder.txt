@@ -3,4 +3,4 @@ turn on inline suggest using crtl + ,
 github commands: 
 - git add.
 - git commit -m message
-- git push -m origin master
+- git push -u origin master
