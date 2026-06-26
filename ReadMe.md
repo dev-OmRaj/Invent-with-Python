@@ -6,3 +6,5 @@ My Challenge for this series will be **i will try to code atleast 1 program in t
 
 1) Day 1: 22 May, 2026 - `Bagels`
 2) Day 2: 23 May, 2026 - `Birthday Paradox`
+3) Day 3: 26 May, 2026 - `BlackJack`
+4) Day 4: 26 June, 2026 - `Bouncing DVD Logo`
